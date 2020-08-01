@@ -24,8 +24,10 @@ h5 {
     margin: 5px;
 }
 
-.form-group {
-    margin-bottom: 5px;
+.create-form {
+    display: flex;
+    margin-left: 22rem;
+    margin-right: 22rem;
 }
 
 img {
