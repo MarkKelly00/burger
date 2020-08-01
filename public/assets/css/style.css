@@ -1,0 +1,36 @@
+body {
+    background-color: #d3c6b4;
+}
+
+div {
+    align-content: center;
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+    border-radius: 2%;
+}
+
+h1,
+h5 {
+    text-align: center;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
