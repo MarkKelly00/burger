@@ -7,7 +7,7 @@ div {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
-    border-radius: 2%;
+    border-radius: 100px 5px;
 }
 
 h1,
@@ -25,9 +25,8 @@ h5 {
 }
 
 .create-form {
-    display: flex;
-    margin-left: 22rem;
-    margin-right: 22rem;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 img {

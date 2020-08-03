@@ -1,7 +1,7 @@
 <div>
-	{{name}}
+	{{this.burger_name}}
 
-	<button class="change-devour" data-id="{{id}}" data-devouredBurger="{{devoured}}">
-		{{#if devoured}}Devour it!{{else}}Devoured!{{/if}}
-	</button>
+	<button type="submit" class="btn btn-secondary float-right" value={{this.id}}>
+	{{#if this.devoured}}Devour it!{{else}}Devoured!{{/if}}
+	<i class="fas fa-utensils ml-2"></i></button>
 </div>
