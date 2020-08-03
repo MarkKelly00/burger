@@ -40,9 +40,10 @@ All the recommended files and directories from the steps above should look like 
 ├── public
 │   └── assets
 │       ├── css
-│       │   └── burger_style.css
+│       │   └── style.css
 │       └── img
 │           └── burger.png
+|           └── example.png
 │   
 │
 ├── server.js
@@ -56,5 +57,5 @@ All the recommended files and directories from the steps above should look like 
 ### Example
 ![img](/public/assets/img/example.png)
 
-* **Heroku Link**
-* 
+* **Heroku Link** - https://burgerl0gger.herokuapp.com/burgers
+
